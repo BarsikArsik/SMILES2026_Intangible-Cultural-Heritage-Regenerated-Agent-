@@ -4,7 +4,7 @@ AI-driven pipeline for historically accurate visual reconstruction of intangible
 Developed by:
 @arsenii_galimov (Arsenii Galimov)
 @evekozlova (Eva Kozlova)
-
+As a project 7_1 of the SMILES 2026.
 ## Overview
 
 This project implements a two-layer agent architecture for generating historically grounded images from heritage descriptions and cultural context.
